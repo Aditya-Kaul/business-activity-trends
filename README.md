@@ -1,5 +1,5 @@
 # Facebook Business Activity Trends during COVID-19
-Business Activity Trends During COVID-19 uses the rate that businesses post on Facebook compared to pre-crisis levels to measure how crisis events are affecting different economic sectors each day.
+Business Activity Trends During COVID-19 uses the rate that businesses post on Facebook compared to pre-crisis levels to measure how crisis events are affecting different economic 
 ## Overview
 
 In this project, we present the "Business Activity Trends," a dataset reflecting the impact of crisis events on businesses through their Facebook posting activity. Initially focused on the COVID-19 pandemic, this global dataset is continually updated to reflect ongoing crises. By comparing the rate of posts on Facebook business pages to pre-crisis levels, we provide daily insights into how different economic sectors are adapting to crisis events.
